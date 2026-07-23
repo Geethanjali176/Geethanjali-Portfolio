@@ -29,7 +29,7 @@ I am passionate about building scalable applications and solving real-world prob
 
 * Developed a real client website using HTML, CSS, JS, PHP
 * Features: Responsive UI, Contact Form, Google Map
-* 🔗 GitHub: https://github.com/geethanjali176/sm-construction-website
+* 🔗 GitHub:https://github.com/Geethanjali176/smconstruction
 
 ---
 
@@ -37,7 +37,7 @@ I am passionate about building scalable applications and solving real-world prob
 
 * Built during internship using PHP & MySQL
 * Fully responsive academic website
-* 🔗 GitHub: https://github.com/geethanjali176mit-ayurveda-college-website
+* 🔗 GitHub: https://github.com/Geethanjali176/mit-ayurveda-college-website
 
 ---
 
@@ -45,7 +45,7 @@ I am passionate about building scalable applications and solving real-world prob
 
 * Desktop app using Python & Tkinter
 * Real-time weather API integration
-* 🔗 GitHub: https://github.com/geethanjali176/weather-app
+* 🔗 GitHub: https://github.com/Geethanjali176/weather-app
 
 ---
 
